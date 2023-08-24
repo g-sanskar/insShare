@@ -1,2 +1,2 @@
 # insShare
-site live @ https://g-sanskar.github.io/inShare_frontend/
+site live @ https://pranjalsharma85.github.io/Inshare_frontend/
